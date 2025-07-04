@@ -2,7 +2,7 @@
 
 Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 ---
 
@@ -135,7 +135,7 @@ _Note: each row for each account_
 1. Navigate to the folder containing the bot files:
 
    ```bash
-   cd /path/to/meomundep-folder
+   cd /path/to/xyro-portal
    ```
 
 2. Run the bot using the following command:
